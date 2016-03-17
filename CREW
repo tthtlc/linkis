@@ -37,3 +37,33 @@ https://github.com/ericniebler/meta
 https://github.com/dropbox/djinni
 https://github.com/solodon4/Mach7
 
+
+
+https://stackoverflow.com/questions/12623921/cmake-to-autogenerate-thrift-code
+http://techminded.net/blog/modular-c-projects-with-cmake.html
+https://github.com/TheComet93/ontology
+
+
+
+https://cmake.org/pipermail/cmake/2010-July/037835.html Exclude CMakeFiles path from GLOB_RECURSE
+https://cmake.org/cmake/help/v3.0/command/target_include_directories.html
+
+
+https://manu343726.github.io/2016/03/13/the-road-for-reflection-tagging-types.html
+
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+http://llvm.org/docs/CodingStandards.html
+https://github.com/kaizouman/gtest-cmake-example
+https://github.com/cginternals/cmake-init
+https://github.com/cginternals/libzeug
+https://github.com/thewtex/cython-cmake-example
+
+https://github.com/facebook/fatal/blob/master/lesson/1.0-variables.cpp
+https://github.com/facebook/fblualib
+https://github.com/facebook/facebook-clang-plugins
+
+http://www.boost.org/doc/libs/1_31_0/libs/mpl/doc/paper/html/example.html
+
+https://google.github.io/styleguide/cppguide.html#General_Naming_Rules
+https://www.linkedin.com/pulse/20140503193653-3046051-why-google-style-guide-for-c-is-a-deal-breaker lol
+http://www.stroustrup.com/OOPSLA-typeswitch-draft.pdf
