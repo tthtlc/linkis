@@ -21,6 +21,7 @@ https://github.com/cognitivewaves/CMake-VisualStudio-Example
 http://llvm.org/docs/HowToSetUpLLVMStyleRTTI.html
 https://github.com/pfultz2/cget
 https://stackoverflow.com/questions/15724357/using-boost-with-emscripten
+https://kripken.github.io/emscripten-site/docs/porting/guidelines/api_limitations.html
 http://llvm.org/docs/tutorial/OCamlLangImpl1.html
 https://plugins.jetbrains.com/plugin/4986?pr=idea
 https://github.com/koplyarov/wigwag
