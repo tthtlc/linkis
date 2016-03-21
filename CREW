@@ -75,4 +75,25 @@ http://www.stroustrup.com/C++11FAQ.html#attributes
 
 http://download.dre.vanderbilt.edu/
 https://github.com/frankee/cetty2/
-tl
+ftl
+https://github.com/tatsuhiro-t/nghttp2
+
+
+
+http://blog.regehr.org/archives/1292
+
+
+
+http://www.boost.org/doc/libs/1_60_0/doc/html/boost_asio/overview/core/async.html
+http://www.boost.org/doc/libs/1_60_0/libs/coroutine2/doc/html/index.html
+http://www.boost.org/doc/libs/1_60_0/libs/math/doc/html/index.html
+http://www.boost.org/doc/libs/1_60_0/doc/html/lockfree.html
+http://www.boost.org/doc/libs/1_60_0/libs/msm/doc/HTML/ch01.html
+http://www.boost.org/doc/libs/1_60_0/libs/bind/doc/html/mem_fn.html
+http://www.boost.org/doc/libs/1_60_0/libs/optional/doc/html/index.html
+http://www.boost.org/doc/libs/1_60_0/libs/preprocessor/doc/index.html
+http://www.boost.org/doc/libs/1_60_0/libs/property_map/doc/property_map.html
+http://www.boost.org/doc/libs/1_60_0/doc/html/property_tree.html
+http://www.boost.org/doc/libs/1_60_0/doc/html/proto/users_guide.html
+http://www.boost.org/doc/libs/1_60_0/libs/range/doc/html/index.html
+http://www.boost.org/doc/libs/1_60_0/libs/statechart/doc/index.html
